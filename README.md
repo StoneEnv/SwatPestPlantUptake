@@ -1,0 +1,1 @@
+Extended SWAT model to account for chemical plant uptake as described in HESS Technical Note (https://doi.org/10.5194/egusphere-2025-877). This version also includes transport of chemicals through tile and groundwater flow as described in a 2023 publication (https://hess.copernicus.org/articles/27/159/2023/). 
